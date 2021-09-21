@@ -1,4 +1,5 @@
 1. membuat sebuah folder kosong dengan namamu sendiri 
+
     **mkdir TsaniahMunfidah**
 2. membuat sebuah file dengan nama README.md, isi file tersebut dengan kalimat "Halo perkenalkan aku halaman utama" 
     **touch README.md** 
