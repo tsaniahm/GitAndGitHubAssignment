@@ -18,7 +18,6 @@
 9. Add second.txt to the staging area
 **git add second.txt**
 10. Commit with the message "adding second.txt"
-**git commit
 **git commit -m "adding second.txt"**
 11. Remove the first.txt file
 **git rm first.txt**
