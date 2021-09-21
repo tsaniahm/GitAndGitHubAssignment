@@ -20,6 +20,7 @@
     **git add cv.txt**
     **git commit -m "Tokopedia"**
 
+
     **echo "Google">>cv.txt**
     **git add cv.txt**
     **git commit -m "Google"**
